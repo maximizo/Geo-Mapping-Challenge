@@ -25,4 +25,17 @@ I will use the United States Geological Survey (USGS) to visualize earthquake da
 
 ### Basic Map
 
-[2-BasicMap](Images/2-BasicMap.png)
+![BasicMap](Images/BasicMap.png)
+
+### Advanced Map
+
+![AdvancedMap](Images/AdvancedMap.png)
+
+### Heat Map
+
+![Heat](Images/Heat.png)
+
+### Time Map
+
+![TimeMap](Images/TimeMap.png)
+
