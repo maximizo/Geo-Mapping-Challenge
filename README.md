@@ -37,5 +37,5 @@ I will use the United States Geological Survey (USGS) to visualize earthquake da
 
 ### Time Map
 
-![TimeMap](Images/TimeMap.png)
+![TimeMap](Images/TimeMap.gif)
 
