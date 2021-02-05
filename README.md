@@ -10,7 +10,7 @@ I will use the United States Geological Survey (USGS) to visualize earthquake da
 * JSON
 * Leaflet
 
-### My Process & Visualizations
+### My Process 
 
 1. Get a dataset from data which is updated every 5 minutes
 
@@ -20,3 +20,9 @@ I will use the United States Geological Survey (USGS) to visualize earthquake da
    -Code markers to reflect depth of earthquake by color
    -Create popups that provide additional information about the earhquake when a marker is clicked
    -Create a legend 
+
+### Visualizations
+
+### Basic Map
+
+[2-BasicMap](Images/2-BasicMap.png)
