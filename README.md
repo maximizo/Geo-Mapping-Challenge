@@ -1,4 +1,4 @@
-## Project Description
+## Visualization Weather with GMAPS
 
 I will use the United States Geological Survey (USGS) to visualize earthquake data. I will try to meaningfully display the issues facing our planet.
 
