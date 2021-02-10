@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Visualization Weather with GMAPS
+=======
+## Geomapping Earthquakes with Leaflet 
+>>>>>>> cbab681d62510a094644619c46a6cb0165a5b53b
 
 I will use the United States Geological Survey (USGS) to visualize earthquake data. I will try to meaningfully display the issues facing our planet.
 
